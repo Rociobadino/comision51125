@@ -5,7 +5,7 @@ app.use(express.urlencoded({ extended: true }));
 
 import ProductManager from './ProductManager.js'
 
-const productManager = new ProductManager('./productos.json')
+const productManager = new ProductManager('./Products.json')
 
 app.get('/', (req,res)=>{
     res.send('INICIO')
@@ -29,7 +29,7 @@ app.get('/productos', async (req,res)=>{
     }
 
 })
-app.get('/productos/:pid', async (req,res)=>{
+app.get('/productos/:pid', async (req, res)=>{
     // res.send('hola productos')
     try {
         const productId = req.params.pid;

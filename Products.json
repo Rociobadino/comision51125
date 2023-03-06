@@ -1,0 +1,77 @@
+[
+    {
+        "title": "buzo"
+    },
+    {
+        "id": null,
+        "title": "mochila",
+        "description": "verde",
+        "price": "50",
+        "code": "23673",
+        "thumbnail": "link",
+        "stock": "3"
+    },
+    {
+        "id": 1,
+        "title": "mochila",
+        "description": "verde",
+        "price": "50",
+        "code": "23673",
+        "thumbnail": "link",
+        "stock": "3"
+    },
+    {
+        "id": 2,
+        "title": "mochila",
+        "description": "verde",
+        "price": "50",
+        "code": "23673",
+        "thumbnail": "link",
+        "stock": "3"
+    },
+    {
+        "id": 3,
+        "title": "mochila",
+        "description": "verde",
+        "price": "50",
+        "code": "23673",
+        "thumbnail": "link",
+        "stock": "3"
+    },
+    {
+        "id": 4,
+        "title": "mochila",
+        "description": "verde",
+        "price": "50",
+        "code": "23673",
+        "thumbnail": "link",
+        "stock": "3"
+    },
+    {
+        "id": 5,
+        "title": "mochila",
+        "description": "verde",
+        "price": "50",
+        "code": "23673",
+        "thumbnail": "link",
+        "stock": "3"
+    },
+    {
+        "id": 6,
+        "title": "mochila",
+        "description": "verde",
+        "price": "50",
+        "code": "23673",
+        "thumbnail": "link",
+        "stock": "3"
+    },
+    {
+        "id": 7,
+        "title": "cartuchera",
+        "description": "rosa con brillos",
+        "price": "80",
+        "code": "236gb73",
+        "thumbnail": "link",
+        "stock": "5"
+    }
+]
